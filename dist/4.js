@@ -1,0 +1,1 @@
+(self.webpackChunkhmm=self.webpackChunkhmm||[]).push([[4],{151:(s,e,c)=>{"use strict";function u(s){console.log(s)}c.d(e,{Z:()=>u})},4:(s,e,c)=>{"use strict";c.r(e),(0,c(151).Z)("Hi")}}]);
